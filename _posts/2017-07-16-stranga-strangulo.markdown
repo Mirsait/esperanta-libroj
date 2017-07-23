@@ -21,3 +21,19 @@ Nun, jen li malrapide revenas al alia angulo. Io estas tute ne-natura en lia rig
 Kio estas en lia mano? Ĉu vi vidas? Ha, jen li reproksimiĝas. Mi bone vidas nun. Nun mi vidas, kio estas en lia mano. Estas taso. Estas nur taso. Rigardu, li agas vere strange! Li parolas al la taso. Li iras al tiu juna studentino, kiu sidas en la angulo, haltas, staras proksime al ŝi, sed ne parolas al ŝi. Li parolas nur al la taso. Li agas vere strange, vere tre strange, vere tro strange. Nun mi ne plu vidas lin.
 
 Ho jes! Se mi turnas min iomete, mi revidas lin. Stranga ulo. Mi vere demandas al mi, kiu li estas. Li certe ne estas nova studento. Li estas tro maljuna.
+
+-----------------
+|||
+|:-------:|:--------:|
+|stranga - странный | strangulo - чудак|
+|forta - сильный |se - если
+|io - что-то|iomete - немного|
+|turni - поворачивать|certe - ясно|
+|dum - в то время как|halti - останавливаться|
+|angulo - угол|pordo - дверь|
+|proksima - близкий|proksimiĝi - приближаться|
+|vere - в самом деле|agi - действовать|
+|mano - рука|
+
+re- -Приставка re- означает повторное или обратное действие<br>
+-iĝ- - Суффикс -iĝ- означает делаться, становиться чем-нибудь
